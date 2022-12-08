@@ -378,7 +378,7 @@ input[type=checkbox]:checked~#overlay-button span:after {
     margin-left: 60vw;
 }
 
-.footer-basic .mail{
+.mail{
     color: white;
-    margin-left: 12vw;
+    margin-left: 60vw;
 }
